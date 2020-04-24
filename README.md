@@ -5,7 +5,7 @@ Set of basic tools to check followers profile
 ## content
 
 ### link_datasets
-Followers fron popular users. For each analyzed user there are two files:
+Followers from popular users. For each analyzed user there are two files:
 * user_follower_profiles.csv <- all profile data to calculate statistics with the script R followers_stats.R
 * user_follwer_profiles_ff.csv <- The data required for the follower factory NYT chart
 
