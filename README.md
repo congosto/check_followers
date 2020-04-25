@@ -20,4 +20,11 @@ Profile Statistics
  
 ### scripts
 
- Code in R to calculate the followers statistics 
+*followers_stats.R: code in R to calculate the followers histograms 
+*followers2ff.py:converts a t-hoarder_kit follower file to the format used in the NYT Followers Falacy chart. Usage
+
+     followers2ff.py [-h] file_in net
+
+*followers2csv.py: change format of t-hoarder_kit from tab separated text to csv to work better in R. Usage
+
+     followers2csv.py [-h] file_in
