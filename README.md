@@ -15,12 +15,13 @@ files are very large so a link to an external repository is provided
 Profile Statistics
 
 ### html 
- code to display the NYT follower factory graph
+ Html code to display the NYT follower factory graph
  code from http://github.com/elaineo/FollowerFactory
  
 ### scripts
 
 *followers_stats.R: code in R to calculate the followers histograms 
+
 *followers2ff.py:converts a t-hoarder_kit follower file to the format used in the NYT Followers Falacy chart. Usage
 
      followers2ff.py [-h] file_in net
